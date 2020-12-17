@@ -1,0 +1,9 @@
+<table class="table">
+    <thead><th>MovieName</th><th>Total Beverages</th><th>Your Balance</th></thead>
+    <tbody>
+    <tr ng-repeat="obj in selctUsr.selectedbeverages">
+        <td>{{obj.moviename}}</td><td>{{obj.beverageTotal}}</td><td></td>
+        </tr>
+        <tr><td></td><td></td><td>{{selctUsr.balance}}</td></tr>
+    </tbody>
+</table>

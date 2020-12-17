@@ -1,0 +1,9 @@
+<div class= "text-center"><div class="container">
+    <a class="btn btn-outline-primary " ng-click="prevpage()" style="float: left;">BACK</a>
+    <h1 class="  text-center wellcome">WELL COME <span >{{selctUsr.username | uppercase}} </span><br></h1>
+     <a   type="button" ui-sref=".show" class="btn btn-danger btn-lg">Show</a>
+     <a type="button" ui-sref=".bever" class="btn btn-danger btn-lg">Beverages</a>
+     <a style="float: right;" ui-sref=".seltdhistry" class="btn btn btn-primary btn-lg">Your History</a><br><br>
+        <div ui-view></div>
+</div>
+ </div>

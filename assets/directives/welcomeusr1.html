@@ -1,0 +1,25 @@
+<div>
+    <div class="row">
+        <div class="col-9">
+            <table  class="table" >
+              <thead><th>MOVIE</th><th>TIME</th><th>TICKETS AVAILABLE</th></thead>
+              <tbody>
+                <tr ng-click="selectNoTickets(mo)" ng-repeat="mo in selctUsr.movie">
+                  <td>{{mo.mname}}</td><td>{{mo.time}}</td><td>{{mo.TicketsAvailable}}</td>
+                </tr>
+              </tbody>
+        </table>
+      </div>
+        <div class="col-3"></div> 
+    </div>
+    <div class="row text-center" ng-show="payblk">
+        <div class="col-sm-12"><h2>Select Number Of Tickets for {{selectedTicObjs.mname}}</h2>
+       <table class="table"><tr><td>200</td><td>X</td><td><input ng-change="setnum(seltdnum,selectedTicObjs.TicketsAvailable)" ng-model="seltdnum" type="number" ></td><td>{{200*seltdnum}}</td></tr></table>
+       <div ng-hide='disabpay'><h2>Ticket Amount : {{200*seltdnum}} Rs</h2>
+        <h2>Beverages : {{newbevtot}} Rs</h2>
+        <h2>Total : {{200*seltdnum+newbevtot}} Rs</h2></div>
+        <h2 ng-show='disabpay' style="color: red;">You Reached Maximum Lilmit Of Ticket Availability</h2>
+        <button type="button" class="btn btn-info" ng-click='pay()' ng-disabled='disabpay'> PAY </button>
+    </div>
+    </div>
+</div>

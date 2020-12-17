@@ -1,0 +1,17 @@
+<div>
+    <div class="row">
+        <div class="col-9">
+          <table  class="table" >
+            <thead><th>Items</th><th>Race</th><th>Quantity</th><th>Total Quantity </th></thead>
+            <tbody>
+              <tr   ng-repeat="itms in selctUsr.beverages" >
+                <td>{{itms.items}}</td><td>{{itms.Race}}</td><td><input type="number" ng-change="seltdBevObjs()" ng-model="empobj[itms.slug]"></td><td>{{itms.Race*empobj[itms.slug]}}</td>
+                <span ng-model=''></span>
+              </tr>
+            </tbody> 
+      </table>
+      <h3>Beverage Total : {{newbevtot}}</h3>
+  </div>
+  <div class="col-3"> </div> 
+ </div>
+</div>

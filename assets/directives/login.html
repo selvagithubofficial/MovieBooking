@@ -1,0 +1,21 @@
+<div>
+    <br>
+    <h3>LOGIN</h3>
+    <div class="row">
+      <div class="col-4"></div>
+        <div class="col-4 justify-content-center" class="form-group">
+            <label>Enter Name :</label>
+            <input class="form-control" placeholder="Enter Name" ng-model="usredata.name">
+        </div>
+        <div class="col-4"></div><br><br><br>
+        <div class="col-4"></div>
+        <div class="col-4 justify-content-center" class="form-group">
+            <label>Enter Upi :</label>
+            <input class="form-control" placeholder="Enter UPI" type="password" ng-model="usredata.upi"><br><br>
+            <button class="btn btn-outline-success" id="loginbtn" ng-hide="hidebtn" ng-click="getdatas()">Login</button>
+            <h4 class="text-danger">{{inval}}</h4>
+        </div>
+        <div class="col-4"></div>
+         </div>
+    </div>
+</div>

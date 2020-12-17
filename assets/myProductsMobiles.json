@@ -1,0 +1,167 @@
+{
+	"ProductCollection": [
+		{	
+			"Processor_Brand": "Qualcomm Snapdragon",
+			"Description": "OnePlus Nord 5G (Gray Onyx, 8GB RAM, 128GB Storage)",
+			"Name": "Vivo v17 Pro",
+			"ProductPicUrl": "assets/images/image_search_1606622850243.jpg",
+			"Battery": 5500,
+			"Price": 55956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Iqoo - 2 5G",
+			"ProductPicUrl": "assets/images/realme-6-pro-rbs0626in-original-imafphs6tqszgg2y.jpg",
+			"Battery": 6000,
+			"Price": 44956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Samsung Galaxy  Flip",
+			"ProductPicUrl": "assets/images/image_search_1606622917094.jpg",
+			"Battery": 6000,
+			"Price": 48956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Google Pixel 2 ",
+			"ProductPicUrl": "assets/images/image_search_1606622966149.jpg",
+			"Battery": 6000,
+			"Price": 68956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Samsung Galaxy note7",
+			"ProductPicUrl": "assets/images/image_search_1606622900469.jpg",
+			"Battery": 6000,
+			"Price": 48956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Google Pixel 3",
+			"ProductPicUrl": "assets/images/image_search_1606622966149.jpg",
+			"Battery": 6000,
+			"Price": 54956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Samsung Galaxy M31 Prime Edition",
+			"ProductPicUrl": "assets/images/image_search_1606622997990.jpg",
+			"Battery": 6000,
+			"Price": 44956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Vivo v17",
+			"ProductPicUrl": "assets/images/image_search_1606623012076.jpg",
+			"Battery": 6000,
+			"Price": 83956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Samsung Galaxy M31 Prime Edition",
+			"ProductPicUrl": "assets/images/image_search_1606623167805.png",
+			"Battery": 6000,
+			"Price": 99990,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Samsung Galaxy Note5",
+			"ProductPicUrl": "assets/images/image_search_1606623044818.jpg",
+			"Battery": 6000,
+			"Price": 44956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "OnePlus Nord",
+			"ProductPicUrl": "assets/images/image_search_1606622987417.png",
+			"Battery": 6000,
+			"Price": 71856,
+			"ScreenSize": "6.53 inch"
+		}
+		,
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Apple s11",
+			"ProductPicUrl": "assets/images/image_search_1606623095845.jpg",
+			"Battery": 6000,
+			"Price": 39956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Apple Iphone-12",
+			"ProductPicUrl": "assets/images/image_search_1606623141838.jpg",
+			"Battery": 6000,
+			"Price": 89956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Iqoo 5G",
+			"ProductPicUrl": "assets/images/vivo-iqoo-neo3.jpg",
+			"Battery": 6000,
+			"Price": 76956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Oneplus Greys",
+			"ProductPicUrl": "assets/images/image_search_1606622975469.png",
+			"Battery": 6000,
+			"Price": 61956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Vivo Nex",
+			"ProductPicUrl": "assets/images/image_search_1606622883862.jpg",
+			"Battery": 6000,
+			"Price": 63956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Iphone 11",
+			"ProductPicUrl": "assets/images/image_search_1606623189591.jpg",
+			"Battery": 6000,
+			"Price": 98956,
+			"ScreenSize": "6.53 inch"
+		},
+		{
+			"Processor_Brand": "Exynos 9611 Octacore",
+			"Description": "Samsung Galaxy M31 Prime Edition (Ocean Blue, 6GB RAM, 128GB Storage)",
+			"Name": "Oppo Reno 4",
+			"ProductPicUrl": "assets/images/image_search_1606623024889.png",
+			"Battery": 6000,
+			"Price": 78956,
+			"ScreenSize": "6.53 inch"
+		}
+	]
+}
