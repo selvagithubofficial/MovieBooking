@@ -68,10 +68,11 @@ myapp.config(function ($stateProvider,$urlRouterProvider) {
   url: '/signup',
   templateUrl: 'assets\\directives\\signup.html',
   controller:function ($scope,formv, $location) {
+     var sign_Objsupdate=formv.secondObj.userscln[formv.secondObj.userscln.length-1].movie;
     $scope.signupObj={username:"",upi:"",balance:10000,email_id:"",transactions:[],
-    movie:[{mname:"Intersteller",time:"12:30 PM",TicketsAvailable:5},
-		{mname:"Spiderman",time:"01:05 PM",TicketsAvailable:5},
-		{mname:"Avengers",time:"03:20 PM",TicketsAvailable:5}],
+    movie:[{mname:"Intersteller",time:"12:30 PM",TicketsAvailable:TicketsAvailable:sign_Objsupdate[0].TicketsAvailable},
+		{mname:"Spiderman",time:"01:05 PM",TicketsAvailable:TicketsAvailable:sign_Objsupdate[1].TicketsAvailable},
+		{mname:"Avengers",time:"03:20 PM",TicketsAvailable:TicketsAvailable:sign_Objsupdate[2].TicketsAvailable}],
 		beverages:[{items:"Coke",slug:"coke",Race:70,	quantity:0,tquantity:0},
 			{items:"Water Bottle",slug:"waterbottle",Race:40,	quantity:0,tquantity:0},
 			{items:"Pop Corn",slug:"popcorn",Race:170,	quantity:0,tquantity:0},
