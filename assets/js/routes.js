@@ -68,7 +68,8 @@ myapp.config(function ($stateProvider,$urlRouterProvider) {
   url: '/signup',
   templateUrl: 'assets\\directives\\signup.html',
   controller:function ($scope,formv, $location) {
-     var sign_Objsupdate=formv.secondObj.userscln[formv.secondObj.userscln.length-1].movie;
+     var sign_Objsupdate=formv.secondObj.length==0?[{TicketsAvailable:5},{TicketsAvailable:5},
+    {TicketsAvailable:5}]:formv.secondObj.userscln[formv.secondObj.userscln.length-1].movie;
     $scope.signupObj={username:"",upi:"",balance:10000,email_id:"",transactions:[],
     movie:[{mname:"Intersteller",time:"12:30 PM",TicketsAvailable:sign_Objsupdate[0].TicketsAvailable},
 		{mname:"Spiderman",time:"01:05 PM",TicketsAvailable:sign_Objsupdate[1].TicketsAvailable},
